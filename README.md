@@ -102,15 +102,7 @@ Run Spring Boot application:
 mvn spring-boot:run
 ```
 
----
 
-# Application URL
-
-```text
-http://localhost:4200
-```
-
----
 
 # Modules
 
